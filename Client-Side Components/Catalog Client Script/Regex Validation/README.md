@@ -34,6 +34,6 @@ Regex details :
 
 With the help of this code, you can easily validate the input value from the user. If it is not an Adhaar, you can clear it and throw an error message below the variable. The same validation can be used for fields instead of variables.
 
-* [Click here for script](script.js)
+Script URL : https://github.com/raghavs046/code-snippets/blob/adhaarValidationScript/Client-Side%20Components/Catalog%20Client%20Script/Regex%20Validation/Adhaar%20Validation%20Script
 
 
