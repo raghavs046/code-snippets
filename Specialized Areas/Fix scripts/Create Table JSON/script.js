@@ -8,5 +8,5 @@ function getJson(tableName, fields) {
     while (dict.next()) {
         jsonObj[dict.element] = '';
     }
-    gs.print(JSON.stringify(jsonObj));
+  return JSON.stringify(jsonObj);
 }
